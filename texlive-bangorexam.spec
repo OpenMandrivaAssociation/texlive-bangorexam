@@ -1,6 +1,6 @@
 Name:		texlive-bangorexam
 Version:	46626
-Release:	1
+Release:	2
 Summary:	Typeset an examination at Bangor University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bangorexam
