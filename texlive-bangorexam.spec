@@ -3,7 +3,7 @@ Version:	65140
 Release:	1
 Summary:	Typeset an examination at Bangor University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bangorexam
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bangorexam
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bangorexam.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bangorexam.doc.r%{version}.tar.xz
